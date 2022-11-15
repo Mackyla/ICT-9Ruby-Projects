@@ -1,0 +1,31 @@
+h1 {
+	font-family: Alice;
+	color:#154360 ;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+span{
+	font-variant: small-caps;
+	color: #154360;
+	font-weight: bold;
+}
+#external{
+	text-shadow: 2px 2px 5px darkred;
+	color: white;
+}
+body{
+	background-color: yellowgreen;
+}
+img{
+	border-style: solid;
+	border-color: black;
+	float: right;
+}
+small{
+	color: darkblue;
+}
