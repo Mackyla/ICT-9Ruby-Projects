@@ -1,0 +1,32 @@
+.Paragraphs{
+			color: white; font-family: Papyrus; text-align: center;
+			text-shadow: 2px 2px 5px #feb618;
+		}
+#Pic1{
+	border-style: solid;
+	border-color: #feb618;
+	height: 500px;
+	width: 1000px;
+	text-align: center;
+}
+
+#Span1{
+	font-family: Papyrus; text-align: center;
+	text-shadow: 2px 2px 5px #feb618;
+}
+#Span2{
+	font-family: Papyrus; text-align: center;
+	text-shadow: 2px 2px 5px #feb618;
+}
+#h32{
+	font-family: Papyrus; text-align: center;
+	text-shadow: 2px 2px 5px #feb618;
+}
+#link1{
+	color: #feb618; font-family: Papyrus; text-align: center;
+	text-shadow: 2px 2px 5px skyblue;
+}
+#PICTURES{
+	border-style: solid;
+	border-color: black;
+	
